@@ -1,0 +1,272 @@
+
+
+h1{
+  font-family: 'Abril Fatface';
+  position: absolute;
+  top: 180px;
+  width: 40%;
+  padding-left: 40px;
+  letter-spacing: 5px;
+  word-spacing: 20px;
+  font-size: 300%;
+}
+
+h2{
+  letter-spacing: 35px;
+  font-family: 'Comfortaa';
+  position: absolute;
+}
+
+h3{
+  letter-spacing: 35px;
+  font-family: 'Comfortaa';
+  position: absolute;
+}
+
+
+/* TAGLINE */
+.image{
+  position: relative;
+  height:730px;
+  width:1306px;
+}
+
+/* NAV HOME PAGE */
+.nav{
+  text-align: center;
+}
+.nav-link{
+  letter-spacing: 5px;
+  font-size: x-small;
+  font-family: 'Comfortaa';
+  color: #000000;
+}
+
+.nav-link:hover{
+color:#191970;
+}
+
+.navbar-brand{
+padding-left: 450px;
+}
+
+.d20{
+  height:35px;
+  left:350px;
+}
+/* BEDROOMS */
+
+.bd-image{
+height: 714px;
+width: 714px;
+}
+.bed{
+  top:600px;
+  left: 700px;
+
+}
+
+.bd-measurments{
+  position:absolute;
+  left:650px;
+  bottom:400px;
+  font-family: 'Comfortaa';
+  font-size: small;
+  letter-spacing: 10px;
+  word-spacing: 10px;
+}
+
+/* PETS */
+
+.pt-image{
+  height: 734px;
+  width:1100;
+}
+
+.pt-measurments{
+  position:absolute;
+  left:650px;
+  bottom:400px;
+  font-family: 'Comfortaa';
+  font-size: small;
+  letter-spacing: 10px;
+  word-spacing: 10px;
+}
+
+.pet{
+  top:600px;
+  left: 1080px;
+
+}
+
+
+/* ENTERTAINMENT */
+
+.et-image{
+  height:519px;
+  width:1000px;
+  position:absolute;
+  top: 238px;
+}
+
+.ent{
+  top:100px;
+  left:140px;
+}
+
+.et-measurments{
+  position:absolute;
+  left:840px;
+  bottom:60px;
+  font-family: 'Comfortaa';
+  font-size: small;
+  letter-spacing: 10px;
+  word-spacing: 10px;
+  width:100px;
+}
+
+/* CRAFTING */
+
+.cr-image{
+position:absolute;
+top:138px;
+height:684px;
+width:912px;
+}
+
+.craft{
+  top:700px;
+  left:730px;
+}
+
+.cr-measurments{
+  position:absolute;
+  left:200px;
+  top:100px;
+  font-family: 'Comfortaa';
+  font-size: small;
+  letter-spacing: 10px;
+  word-spacing: 10px;
+  width:100px;
+}
+
+/* GAMING */
+
+.g-image{
+  position:absolute;
+  height: 512px;
+  width:512px;
+  top:280px;
+}
+
+.game{
+  top:600px;
+  left:730px;
+}
+
+.g-measurments{
+  position:absolute;
+  left:300px;
+  top:100px;
+  font-family: 'Comfortaa';
+  font-size: small;
+  letter-spacing: 10px;
+  word-spacing: 10px;
+  width:100px;
+}
+
+/*OFFICE*/
+.o-image{
+  position:absolute;
+  height: 612px;
+  width:812px;
+  top:200px;
+}
+
+.office{
+  top:700px;
+  left:930px;
+}
+
+.o-measurments{
+  position:absolute;
+  left:600px;
+  top:100px;
+  font-family: 'Comfortaa';
+  font-size: small;
+  letter-spacing: 10px;
+  word-spacing: 10px;
+  width:100px;
+}
+
+/* PLAYROOM */
+
+.p-image{
+  position:absolute;
+  height: 612px;
+  width:612px;
+  top:20px;
+}
+
+.play{
+  top:700px;
+  left:730px;
+}
+
+.p-measurments{
+  position:absolute;
+  left:800px;
+  top:100px;
+  font-family: 'Comfortaa';
+  font-size: small;
+  letter-spacing: 10px;
+  word-spacing: 10px;
+  width:100px;
+}
+
+/* FURNITURE */
+
+.f-image{
+  position:absolute;
+  height:512px;
+  width:612px;
+  top:300px;
+}
+
+.furn{
+  top:700px;
+  left:630px;
+}
+
+.f-measurments{
+  position:absolute;
+  left:300px;
+  top:100px;
+  font-family: 'Comfortaa';
+  font-size: small;
+  letter-spacing: 10px;
+  word-spacing: 10px;
+  width:100px;
+}
+
+/* DONE */
+
+.done-image{
+  position:absolute;
+  top:330px;
+}
+
+.title{
+  top:190px;
+  width: 1400px;
+  text-align: center;
+}
+
+.relax{
+  position:absolute;
+  left:500px;
+  top:500px;
+  font-family: 'Comfortaa';
+  letter-spacing: 10px;
+  word-spacing: 10px;
+}
